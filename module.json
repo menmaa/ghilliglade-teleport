@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "ghillieglade-teleport",
+	"author": "Menma",
+	"description": "Teleports your character on the bridge before the Dominolith instantly when entering Ghillieglade.",
+	"options": {
+		"guiName": "Ghillieglade Teleport"
+	},
+	"servers": ["https://raw.githubusercontent.com/menmaa/ghillieglade-teleport/master/"],
+	"supportUrl": "https://github.com/menmaa/ghillieglade-teleport/issues",
+	"donationUrl": "https://www.paypal.me/menmaaa"
+}
